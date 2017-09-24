@@ -5,3 +5,5 @@
 	Version: 0.1
 
 */
+
+if( !defined( 'ABSPATH' ) ) exit;
